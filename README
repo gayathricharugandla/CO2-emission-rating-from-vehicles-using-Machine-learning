@@ -1,0 +1,13 @@
+This study leverages machine learning techniques to analyze and predict CO2 emissions based on various parameters, including vehicle type, engine specifications, fuel consumption, driving conditions, and historical 
+emissions data. This research contributes to the ongoing efforts to mitigate climate change by promoting the development of cleaner, more efficient vehicles. 
+
+Libraries:
+• Torch
+• Flask
+• Numpy
+• Keras
+
+The proposed system aims to develop a predictive model for vehicle CO2 emissions using machine learning, and deploy it as a Flask web application. The project involves collecting and preprocessing vehicle data,
+training and evaluating machine learning models, and creating an API with Flask to serve predictions.
+Machine learning algorithm used is multiple linear regression. Multiple linear regression refers to a statistical technique that uses two or more independent variables to predict the outcome of a dependent variable.
+The technique enables analysts to determine the variation of the model and the relative contribution of each independent variable in the total variance.
